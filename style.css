@@ -1,4 +1,3 @@
-
 body {
   background: #00b3e6;
 }
@@ -17,5 +16,5 @@ div {
 }
 
 .perspective-questions {
-  /* Your code here! */
+  font-style: italic
 }
